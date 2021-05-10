@@ -1,0 +1,3 @@
+conn.java 是负责连接数据库的文件
+
+InsertLogin：是库存管理界面
